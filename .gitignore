@@ -1,0 +1,12 @@
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+# Virtual env 
+venv/ 
+.venv/ 
+env/ 
+# OS files 
+Thumbs.db 
+.DS_Store 
+# Data (optional) 
+data/raw/ 
