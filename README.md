@@ -19,7 +19,7 @@ This project analyzes customer churn patterns using **Python, Pandas, Matplotlib
 The goal is to understand *why customers leave* and identify *high-risk segments* so that the business can improve retention.
 
 
-## 🚀 Project Objectives
+## Project Objectives
 
 - Analyze churn rate and patterns  
 - Build signup/tenure-based cohorts  
@@ -28,7 +28,7 @@ The goal is to understand *why customers leave* and identify *high-risk segments
 - Generate actionable insights for management  
 
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (Pandas, Matplotlib, Seaborn)  
 - **Power BI** (Dashboard for churn insights)  
@@ -36,7 +36,7 @@ The goal is to understand *why customers leave* and identify *high-risk segments
 - **GitHub**  
 
 
-## 📂 Project Structure
+## Project Structure
 customer-churn-descriptive-analytics/
 │
 ├─ data/
